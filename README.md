@@ -1,2 +1,2 @@
 
-[img]http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=ErogeMaster225&pp=1&flagshadow&flagstroke&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar[/img]
+[![osu](http://lemmmy.pw/osusig/sig.php?colour=hex8866ee&uname=ErogeMaster225&pp=1&flagshadow&flagstroke&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar)](https://osu.ppy.sh/users/8471225)
