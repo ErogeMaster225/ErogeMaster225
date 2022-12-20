@@ -1,2 +1,2 @@
 
-[![osu](https://osusig.lolicon.app/sig.php?colour=hex8866ee&uname=ErogeMaster225&pp=1&flagshadow&flagstroke&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar)](https://osu.ppy.sh/users/8471225)
+[![osu](https://osu-sig.vercel.app/card?user=ErogeMaster225&mode=std&lang=en&blur=4&animation=true&hue=360&flop=true)](https://osu.ppy.sh/users/8471225)
